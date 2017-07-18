@@ -1,0 +1,17 @@
+{
+  "name": "backup",
+  "DisplayName": "站点备份",
+  "Description": "使用完整的图片投票解决方案来获得您需要的答案。",
+  "Publisher": "siteserver",
+  "Version": "1.0.0",
+  "Website": "http://www.siteserver.cn",
+  "Disabled": false,
+  "ExecuteFileName": "bin/SiteServer.Backup.dll",
+  "icon": "logo.svg",
+  "includes": [
+    "admin/",
+    "logo.svg",
+    "bin/SiteServer.Backup.dll",
+    "plugin.json"
+  ]
+}
